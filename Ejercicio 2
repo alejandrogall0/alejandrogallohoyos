@@ -1,0 +1,6 @@
+#!/bin/bash
+VAL=1
+for((I=1;I<=$VAL;I++))
+do
+echo "hola $1" $I
+done
